@@ -1,4 +1,4 @@
-<h1 align="center">Hola, mi nombre es Yannick Funes</h1>
+<h1 align="center">Yannick Funes Chavez
 <h3 align="center">Programador en Java</h3>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
