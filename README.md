@@ -1,9 +1,5 @@
-<h1 align="center">Hi, I'm Yannick Funes</h1>
-
-###
-
 <div align="center">
-  <img height="200" src="https://imgur.com/a/3LZ08QS"/>
+  <img height="300" src="https://i.imgur.com/e2ARjhv.png"  />
 </div>
 
 ###
@@ -12,6 +8,10 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="40" alt="youtube logo"  />
 </div>
+
+###
+
+<h1 align="center">Hi, I'm Yannick Funes</h1>
 
 ###
 
@@ -35,7 +35,14 @@
 
 ###
 
-<p align="left">Implementing backend services in Laravel for efficient data transmission and integration with main landing pages.<br>Automating back-office processes using Laravel, Vue, and MySQL, optimizing areas like Customer Experience and Marketing.<br>Developing web management tools for streamlined data handling and improving application usability and reliability.<br>Performing preventive maintenance on web applications, ensuring stability and efficiency for both client and employee use.<br>Collaborating with cross-functional teams to define and enhance internal tool suites, focusing on continuous improvement.<br>Documenting processes and managing server infrastructure, including database administration and patching for security.</p>
+<p align="left">
+  - Implementing backend services in Laravel for efficient data transmission and integration with main landing pages.
+  - Automating back-office processes using Laravel, Vue, and MySQL, optimizing areas like Customer Experience and Marketing.
+  - Developing web management tools for streamlined data handling and improving application usability and reliability.
+  - Performing preventive maintenance on web applications, ensuring stability and efficiency for both client and employee use.
+  - Collaborating with cross-functional teams to define and enhance internal tool suites, focusing on continuous improvement.
+  - Documenting processes and managing server infrastructure, including database administration and patching for security.
+</p>
 
 ###
 
@@ -43,7 +50,12 @@
 
 ###
 
-<p align="left">Implementing backend services in Laravel for efficient data transmission and integration with main landing pages.<br>Automating back-office processes using Laravel, Vue, and MySQL, optimizing areas like Customer Experience and Marketing.<br>Developing web management tools for streamlined data handling and improving application usability and reliability.<br>Performing preventive maintenance on web applications, ensuring stability and efficiency for both client and employee use.<br>Collaborating with cross-functional teams to define and enhance internal tool suites, focusing on continuous improvement.<br>Documenting processes and managing server infrastructure, including database administration and patching for security.</p>
+<p align="left">
+  - Implementing backend services in Laravel for efficient data transmission and integration with main landing pages.
+  - Automating back-office processes using Laravel, Vue, and MySQL, optimizing areas like Customer Experience and Marketing.
+  - Developing web management tools for streamlined data handling and improving application usability and reliability.<br>Performing preventive maintenance on web applications, ensuring stability and efficiency for both client and employee use.
+  - Collaborating with cross-functional teams to define and enhance internal tool suites, focusing on continuous improvement.<br>Documenting processes and managing server infrastructure, including database administration and patching for security.
+</p>
 
 ###
 
