@@ -35,14 +35,12 @@
 
 ###
 
-<div align="left">
-  - Implementing backend services in Laravel for efficient data transmission and integration with main landing pages.
-  - Automating back-office processes using Laravel, Vue, and MySQL, optimizing areas like Customer Experience and Marketing.
-  - Developing web management tools for streamlined data handling and improving application usability and reliability.
-  - Performing preventive maintenance on web applications, ensuring stability and efficiency for both client and employee use.
-  - Collaborating with cross-functional teams to define and enhance internal tool suites, focusing on continuous improvement.
-  - Documenting processes and managing server infrastructure, including database administration and patching for security.
-</div>
+- Implementing backend services in Laravel for efficient data transmission and integration with main landing pages.
+- Automating back-office processes using Laravel, Vue, and MySQL, optimizing areas like Customer Experience and Marketing.
+- Developing web management tools for streamlined data handling and improving application usability and reliability.
+- Performing preventive maintenance on web applications, ensuring stability and efficiency for both client and employee use.
+- Collaborating with cross-functional teams to define and enhance internal tool suites, focusing on continuous improvement.
+- Documenting processes and managing server infrastructure, including database administration and patching for security.
 
 ###
 
@@ -50,12 +48,10 @@
 
 ###
 
-<div align="left">
-  - Implementing backend services in Laravel for efficient data transmission and integration with main landing pages.
-  - Automating back-office processes using Laravel, Vue, and MySQL, optimizing areas like Customer Experience and Marketing.
-  - Developing web management tools for streamlined data handling and improving application usability and reliability.<br>Performing preventive maintenance on web applications, ensuring stability and efficiency for both client and employee use.
-  - Collaborating with cross-functional teams to define and enhance internal tool suites, focusing on continuous improvement.<br>Documenting processes and managing server infrastructure, including database administration and patching for security.
-</div>
+- Implementing backend services in Laravel for efficient data transmission and integration with main landing pages.
+- Automating back-office processes using Laravel, Vue, and MySQL, optimizing areas like Customer Experience and Marketing.
+- Developing web management tools for streamlined data handling and improving application usability and reliability.<br>Performing preventive maintenance on web applications, ensuring stability and efficiency for both client and employee use.
+- Collaborating with cross-functional teams to define and enhance internal tool suites, focusing on continuous improvement.<br>Documenting processes and managing server infrastructure, including database administration and patching for security.
 
 ###
 
