@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/yannick-yasuhiro-funes-chavez/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   </a>
-  <a href="youtube.com/channel/UCSunGueTXt9b6HKfxeINvyw" target="_blank">
+  <a href="https://www.youtube.com/channel/UCSunGueTXt9b6HKfxeINvyw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="40" alt="youtube logo"  />
   </a>
 </div>
