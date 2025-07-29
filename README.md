@@ -35,6 +35,29 @@
 
 ###
 
+<h3>💼 Portfolio</h3>
+
+<div style="overflow-x: auto; white-space: nowrap; padding: 10px;">
+
+  <!-- VIDEO 1 -->
+  <div style="display: inline-block; width: 300px; margin-right: 10px; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=wIabEU8Zd1g" target="_blank">
+      <img src="https://img.youtube.com/vi/wIabEU8Zd1g/0.jpg" width="100%" />
+    </a>
+    <p>
+      <a href="https://www.youtube.com/watch?v=wIabEU8Zd1g" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube" />
+      </a><br/>
+      <a href="https://github.com/Yannx79/commercia360" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </p>
+  </div>
+
+</div>
+
+###
+
 <h3 align="left">📌 Professional Activities:</h3>
 
 ###
@@ -52,7 +75,7 @@
 
 ###
 
-- IBackend development with Laravel for efficient data integration and transmission.
+- Backend development with Laravel for efficient data integration and transmission.
 - Automating internal workflows using Laravel, Vue, and MySQL.
 - Creating web management tools to enhance usability and reliability.
 - Preventive maintenance of web applications to ensure stability and performance.
