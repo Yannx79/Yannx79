@@ -37,25 +37,55 @@
 
 <h3>💼 Portfolio</h3>
 
-
-<div style="overflow-x: auto; white-space: nowrap; padding: 10px;">
-
-  <!-- VIDEO 1 -->
-  <div style="display: inline-block; width: 220px; margin-right: 12px; text-align: center; font-family: sans-serif;">
-    <a href="https://www.youtube.com/watch?v=wIabEU8Zd1g" target="_blank">
-      <img src="https://img.youtube.com/vi/wIabEU8Zd1g/hqdefault.jpg" width="100%" style="border-radius: 8px;" />
-    </a>
-    <div style="margin-top: 8px;">
+<table>
+  <tr>
+    <td align="center">
       <a href="https://www.youtube.com/watch?v=wIabEU8Zd1g" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-Watch-red?style=flat&logo=youtube&logoColor=white" />
+        <img src="https://img.youtube.com/vi/wIabEU8Zd1g/mqdefault.jpg" width="240" height="135" />
+      </a><br/>
+      <a href="https://www.youtube.com/watch?v=wIabEU8Zd1g">
+        <img src="https://img.shields.io/badge/YouTube-Watch-red?style=flat-square&logo=youtube" />
+      </a><br/>
+      <a href="https://github.com/Yannx79/Commercia-360-API">
+        <img src="https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github" />
       </a>
-      <a href=https://github.com/Yannx79/Commercia-360-API" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Repo-000?style=flat&logo=github&logoColor=white" />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=UCqPqHQnb_g" target="_blank">
+        <img src="https://img.youtube.com/vi/UCqPqHQnb_g/mqdefault.jpg" width="240" height="135" />
+      </a><br/>
+      <a href="https://www.youtube.com/watch?v=UCqPqHQnb_g">
+        <img src="https://img.shields.io/badge/YouTube-Watch-red?style=flat-square&logo=youtube" />
+      </a><br/>
+      <a href="https://github.com/">
+        <img src="https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github" />
       </a>
-    </div>
-  </div>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=qfsd9fL_mYo" target="_blank">
+        <img src="https://img.youtube.com/vi/qfsd9fL_mYo/mqdefault.jpg" width="240" height="135" />
+      </a><br/>
+      <a href="https://www.youtube.com/watch?v=qfsd9fL_mYo">
+        <img src="https://img.shields.io/badge/YouTube-Watch-red?style=flat-square&logo=youtube" />
+      </a><br/>
+      <a href="https://github.com/Yannx79/Real-State-API">
+        <img src="https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=y5g9ny_cr8Y" target="_blank">
+        <img src="https://img.youtube.com/vi/y5g9ny_cr8Y/mqdefault.jpg" width="240" height="135" />
+      </a><br/>
+      <a href="https://www.youtube.com/watch?v=y5g9ny_cr8Y">
+        <img src="https://img.shields.io/badge/YouTube-Watch-red?style=flat-square&logo=youtube" />
+      </a><br/>
+      <a href="https://github.com/Yannx79/MiniHexagonal">
+        <img src="https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-</div>
 
 ###
 
