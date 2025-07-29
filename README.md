@@ -37,21 +37,22 @@
 
 <h3>💼 Portfolio</h3>
 
+
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px;">
 
   <!-- VIDEO 1 -->
-  <div style="display: inline-block; width: 300px; margin-right: 10px; text-align: center;">
+  <div style="display: inline-block; width: 220px; margin-right: 12px; text-align: center; font-family: sans-serif;">
     <a href="https://www.youtube.com/watch?v=wIabEU8Zd1g" target="_blank">
-      <img src="https://img.youtube.com/vi/wIabEU8Zd1g/0.jpg" width="100%" />
+      <img src="https://img.youtube.com/vi/wIabEU8Zd1g/hqdefault.jpg" width="100%" style="border-radius: 8px;" />
     </a>
-    <p>
+    <div style="margin-top: 8px;">
       <a href="https://www.youtube.com/watch?v=wIabEU8Zd1g" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge&logo=youtube" />
-      </a><br/>
-      <a href="https://github.com/Yannx79/commercia360" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/YouTube-Watch-red?style=flat&logo=youtube&logoColor=white" />
       </a>
-    </p>
+      <a href=https://github.com/Yannx79/Commercia-360-API" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Repo-000?style=flat&logo=github&logoColor=white" />
+      </a>
+    </div>
   </div>
 
 </div>
